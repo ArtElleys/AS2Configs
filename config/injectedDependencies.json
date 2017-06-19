@@ -1,20 +1,20 @@
 [
-    {
-        "modId": "HardcoreQuesting",
-        "deps": [
-            {
-                "type":"after",
-                "target":"*"
-            }
-        ]
-    },
 	{
-        "modId": "AgriCraft",
-        "deps": [
-            {
-                "type":"after",
-                "target":"TConstruct"
-            }
-        ]
-    }
+		"modId": "HardcoreQuesting",
+		"deps": [
+			{
+				"type":"after",
+				"target":"*"
+			}
+		]
+	},
+	{
+		"modId": "AgriCraft",
+		"deps": [
+			{
+				"type":"after",
+				"target":"TConstruct"
+			}
+		]
+	}
 ]
